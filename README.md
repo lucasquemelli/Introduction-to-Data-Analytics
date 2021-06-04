@@ -118,3 +118,4 @@ print(result)
 
 #Obviously, the result of the previous function is 24. Not that difficult and neither interesting... But the attention goes to the command "print". The string 'This is not printed' actually was not printed - only the result 24. Think about it!
 
+#The last function 'Mult' can be used to multiply integers, floats and even strings. In the last case, the string will be repeated the times you want. But only works when we use an integer to multiply a string - not a float, I mean.
