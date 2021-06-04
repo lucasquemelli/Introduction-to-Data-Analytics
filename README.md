@@ -181,6 +181,15 @@ def PrintList(the_list):
         
 PrintList(['1', 1, 'the man', "abc"])
 
+#Come up with a function that divides the first input by the second input:
+
+def div(a,b):
+    c = a/b
+    return(c)
+    
+result = div(8,2)
+print(result)
+
 # Here is a link with commonly-used pre-defined functions in Python: 
 
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/labs/Module%203/Python_reference_sheet.pdf?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkPY0101ENSkillsNetwork19487395-2021-01-01
