@@ -88,3 +88,33 @@ while(squares[i] == 'orange'):
     i = i + 1
     
 print("Index", i,"presented a string different of orange!")
+
+# Functions in Python
+
+#This is an example of a function
+
+def add(a):       #keyword: def; #name: add; #parameter: a.
+    b = a + 1     #here begins the indent and it will be finished on line 99; #these three lines are called "the body" of the function". 
+    print(a, "if you add one", b)
+    return(b)
+    
+#A manner of calling the previous function is:
+
+add(1) #this will assign the value 1 to the variable a. Thus, the result will be 2.
+
+#Another way of calling the funcion named "add" is by doing:
+
+add(2) #this will result in 3.
+
+#Let's pay attention to the next function that multiplies two numbers:
+
+def Mult(a, b):
+    c = a * b
+    return(c)
+    print('This is not printed')
+    
+result = Mult(12,2)
+print(result)
+
+#Obviously, the result of the previous function is 24. Not that difficult and neither interesting... But the attention goes to the command "print". The string 'This is not printed' actually was not printed - only the result 24. Think about it!
+
