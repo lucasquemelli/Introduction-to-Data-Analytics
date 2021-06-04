@@ -137,7 +137,9 @@ def square(a):
 #Global manner
 
 x = 3
+
 #Makes function call and return function a y
+
 y = square(x)
 y                                            
 
