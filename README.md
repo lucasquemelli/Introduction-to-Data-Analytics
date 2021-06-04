@@ -139,5 +139,7 @@ def square(a):
 x = 3
 #Makes function call and return function a y
 y = square(x)
-y                                            #In this manner, we defined the variable 'x' and the function 'y'. The variable 'x' is a parameter of the function 'y'. Both of them                                              are part of the same set of codes. Because of this, if we set a different value for 'x', the function 'y' will return the result as                                              (x*x + 1).
+y                                            
+
+#In this manner, we defined the variable 'x' and the function 'y'. The variable 'x' is a parameter of the function 'y'. Both of them                                              are part of the same set of codes. Because of this, if we set a different value for 'x', the function 'y' will return the result as                                              (x*x + 1).
 
