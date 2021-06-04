@@ -145,3 +145,44 @@ y
 
 #In this manner, we defined the variable 'x' and the function 'y'. The variable 'x' is a parameter of the function 'y'. Both of them                                              are part of the same set of codes. Because of this, if we set a different value for 'x', the function 'y' will return the result as                                              (x*x + 1).
 
+#When there is not return statement, the function return none as may be seen: 
+
+def LQ():
+    print('Lucas Quemelli')
+    
+def LQ1():
+    print('Lucas Quemelli')
+    return(None)
+    
+#See the output
+
+LQ()
+
+#See the output
+
+LQ1()
+
+#Printing the function after a call reveals a "none" is the default return statement:
+
+print(LQ())
+print(LQ1())
+
+#We can concatenate two strings using a function con:
+
+def con(a, b):
+    return(a + b)
+con("This ", "is!")
+
+#We may use a loop for printing every element in a function, such as:
+
+def PrintList(the_list):
+    for element in the_list:
+        print(element)
+        
+PrintList(['1', 1, 'the man', "abc"])
+
+# Here is a link with commonly-used pre-defined functions in Python: 
+
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/labs/Module%203/Python_reference_sheet.pdf?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkPY0101ENSkillsNetwork19487395-2021-01-01
+
+
