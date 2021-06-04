@@ -121,3 +121,23 @@ print(result)
 #The last function 'Mult' can be used to multiply integers, floats and even strings. In the last case, the string will be repeated the times you want. But only works when we use an integer to multiply a string - not a float, I mean. Example:
 
 Mult(2, "Lucas Quemelli")
+
+#We may call variables of a local and a global manner
+
+#Local manner
+
+def square(a):
+    
+    # Local variable b
+    b = 1
+    c = a * a + b
+    print(a, "if you square + 1", c) 
+    return(c)
+
+#Global manner
+
+x = 3
+#Makes function call and return function a y
+y = square(x)
+y                                            #In this manner, we defined the variable 'x' and the function 'y'. The variable 'x' is a parameter of the function 'y'. Both of them                                              are part of the same set of codes. Because of this, if we set a different value for 'x', the function 'y' will return the result as                                              (x*x + 1).
+
