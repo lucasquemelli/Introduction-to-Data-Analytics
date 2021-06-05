@@ -238,7 +238,24 @@ except:
     print("There was an error")
         
 #Note that the input 'b' must be an integer.
-#Note that it is not possible to insert a float or zero (as an integer). 
+#Note that it is not possible to insert a float or zero (as an integer).
+
+#Try except specific example
+
+a = 1
+
+try:
+    b = int(input("Please enter an integer number to divide a"))
+    a = a/b
+    print("Success a=",a)
+except ZeroDivisionError:
+    print("The number you provided cannot divide because it is 0")
+except ValueError:
+    print("You did not provide an integer or a number")
+except:
+    print("Something went wrong")
+        
+
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
