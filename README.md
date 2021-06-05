@@ -224,7 +224,21 @@ T2 = (6,5,4)
 result = con(T1,T2)
 print(result)
 
-#
+# Exception Handling
+
+#Try except example: in this example we are trying to divide a number given by the user, save the outcome in the variable a, and then we would like to print the result of the operation.
+
+a = 1
+
+try:
+    b = int(input("Please enter a number to divide a"))
+    a = a/b
+    print("Success a=",a)
+except:
+    print("There was an error")
+        
+#Note that the input 'b' must be an integer.
+#Note that it is not possible to insert a float or zero (as an integer). 
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
