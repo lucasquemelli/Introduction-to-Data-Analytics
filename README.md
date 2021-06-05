@@ -255,7 +255,23 @@ except ValueError:
 except:
     print("Something went wrong")
         
+#Try except else and finally example
 
+a = 1
+
+try:
+    b = int(input("Please enter an integer to divide a"))
+    a = a/b
+except ZeroDivisionError:
+    print("The number you provided cant divide 1 because it is 0")
+except ValueError:
+    print("You did not provide a number")
+except:
+    print("Something went wrong")
+else:
+    print("success a=",a)
+finally:
+    print("Processing Complete")
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
