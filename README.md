@@ -273,6 +273,27 @@ else:
 finally:
     print("Processing Complete")
 
+# Classes and Objects
+
+#You have been recruited by your friend, a linguistics enthusiast, to create a utility tool that can perform analysis on a given piece of text. Complete the class 'analysedText' with the following methods -
+
+Constructor - Takes argument 'text',makes it lower case and removes all punctuation. Assume only the following punctuation is used - period (.), exclamation mark (!), comma (,) and question mark (?). Store the argument in "fmtText"
+freqAll - returns a dictionary of all unique words in the text along with the number of their occurences.
+freqOf - returns the frequency of the word passed in argument.
+
+class analysedText(object):
+    
+    def __init__ (self, text):
+        pass
+    
+    def freqAll(self):        
+        pass
+    
+    def freqOf(self,word):
+        pass
+        
+
+
 # Here is a link with commonly-used pre-defined functions in Python: 
 
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/labs/Module%203/Python_reference_sheet.pdf?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkPY0101ENSkillsNetwork19487395-2021-01-01
