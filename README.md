@@ -292,7 +292,104 @@ class analysedText(object):
     def freqOf(self,word):
         pass
         
+#Try of the previous exercise
 
+class analysedText(object):
+    # Constructor
+    def __init__ (self, text):
+        text.lower()
+        text.split()
+        text.split('.')
+        text.split('!')
+        text.split(',')
+        text.split('?')
+        fmtText = text
+        pass
+    
+    def freqAll(self):        
+        j = 0
+        for i in text:
+            Dict = {"key[j]": text[i]}
+            j = j + 1
+            return(Dict)
+        k = 0
+        n = 0
+        for i in Dict:
+            b = 0
+        for i in Dict:
+            while(Dict[k] != Dict[i]):
+                b = b + 1
+                return(Dict2)
+                if (b == len(Dict)):
+                Dict2 = {"key[n]": Dict[k]}
+                n = n + 1
+                print("The word",Dict2[k],"appears only once!")
+            else:
+                Dict3 = {"key[k]": Dict[k]}
+                c[k] = len(Dict) - b
+                print("Do nothing")
+            return(Dict)
+        k = k + 1
+        return(Dict)
+        pass
+    
+    def freqOf(self,word):
+        for i in Dict3:
+            print("The word ",Dict3[i]," appears ",c[i],"times!")    
+        pass
+        
+        
+        
+        #Last try
+        
+        class analysedText(object):
+    # Constructor
+    def __init__ (self, text):
+        text.lower()
+        text.split()
+        text.split('.')
+        text.split('!')
+        text.split(',')
+        text.split('?')
+        fmtText = text
+        pass
+    
+    def freqAll(self):        
+        j = 0
+        for i in text:
+            Dict = {"key[j]": text[i]}
+            j = j + 1
+            return(Dict)
+        k = 0
+        n = 0
+        for i in Dict:
+            b = 0
+        for i in Dict:
+            while(Dict[k] != Dict[i]):
+                b = b + 1
+                return(Dict2)
+            if (b == len(Dict)):
+                g = 1
+                Dict2 = {"key[n]": Dict[k]}
+                Dict3 = {"Dict[k]": g}
+                n = n + 1
+                print("Dict3[k]")
+            else:
+                Dict4 = {"key[k]": Dict[k]}
+                c[k] = len(Dict) - b
+                print("Do nothing")
+                Dict5 = {"Dict[k]": c[k]}
+                 return(Dict)
+        k = k + 1
+        return(Dict)
+        pass
+    
+    def freqOf(self,word):
+        for i in Dict3:
+            print("The word ",Dict3[i]," appears ",c[i],"times!")    
+        pass
+        
+                
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
