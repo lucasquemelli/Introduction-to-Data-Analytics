@@ -422,6 +422,46 @@ class analysedText(object):
         else:
             return 0
     
+# Write and save files in Python
+
+Your local university's Raptors fan club maintains a register of its active members on a .txt document. Every month they update the file by removing the members who are not active. You have been tasked with automating this with your Python skills.
+Given the file currentMem, Remove each member with a 'no' in their Active coloumn. Keep track of each of the removed members and append them to the exMem file. Make sure the format of the original files in preserved. 
+
+def cleanFiles(currentMem,exMem):
+    with open(currentMem,'r+') as writeFile: 
+        with open(exMem,'a+') as appendFile:
+            #get the data
+            writeFile.seek(0)
+            members = writeFile.readlines()
+            #remove header
+            header = members[0]
+            members.pop(0)
+                
+            inactive = [for member in members if ('no' in member)]
+            
+            writeFile.seek(0) 
+            writeFile.write(header)
+            for member in members:
+                if (member in inactive):
+                    appendFile.write(member)
+                else:
+                    writeFile.write(member)      
+            writeFile.truncate()
+                
+memReg = 'members.txt'
+exReg = 'inactive.txt'
+cleanFiles(memReg,exReg)
+
+headers = "Membership No  Date Joined  Active  \n"
+
+with open(memReg,'r') as readFile:
+    print("Active Members: \n\n")
+    print(readFile.read())
+    
+with open(exReg,'r') as readFile:
+    print("Inactive Members: \n\n")
+    print(readFile.read())
+    
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
