@@ -1,5 +1,7 @@
 # Introduction-to-Data-Analytics
 
+This is repository for a introductory course on data analysis.
+
 # Expressions and Variables in Python
 
 ![image](https://user-images.githubusercontent.com/81119854/122654538-8d9e7f00-d122-11eb-9c9c-b5066580175e.png)
