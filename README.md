@@ -1,6 +1,6 @@
 # Introduction-to-Data-Analytics
 
-This is repository for a introductory course on data analysis.
+This is a repository for an introductory course on data analysis using Python 3.
 
 # Expressions and Variables in Python
 
