@@ -8,6 +8,26 @@
 
 ![image](https://user-images.githubusercontent.com/81119854/122654560-b0309800-d122-11eb-9466-3da35891fc4d.png)
 
+# Strings and Operations
+
+![image](https://user-images.githubusercontent.com/81119854/122654594-fdad0500-d122-11eb-97d9-66ae59ede359.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654605-0e5d7b00-d123-11eb-8b97-03de74699d75.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654610-19b0a680-d123-11eb-98cb-56d2c8fa770c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654640-3b119280-d123-11eb-828a-468dd759f94d.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654658-511f5300-d123-11eb-82ff-20a22b71dd33.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654665-63998c80-d123-11eb-972e-ce171ff895c0.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654675-7318d580-d123-11eb-9c50-1b1dfd20ebff.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654691-86c43c00-d123-11eb-8c92-f391f338008a.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654716-b5daad80-d123-11eb-92e4-d6a2b9d9ae9b.png)
+
 # Conditions-Statement
 It is a repository of the codes about conditions statements I have done in the "Introduction to Data Analytics" course.
 
