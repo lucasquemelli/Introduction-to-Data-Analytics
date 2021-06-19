@@ -81,39 +81,12 @@
 ![image](https://user-images.githubusercontent.com/81119854/122655146-af9a0080-d126-11eb-9d15-dd2d1bae74e2.png)
 
 # Conditions-Statement
-It is a repository of the codes about conditions statements I have done in the "Introduction to Data Analytics" course.
 
-  Conditions Statements 
-#Write an if statement to determine if an album had a rating greater than 8. Test it using the rating for the album “Back in Black” that had a rating of 8.5. If the statement is true print "This album is Amazing!"
+![image](https://user-images.githubusercontent.com/81119854/122655217-36e77400-d127-11eb-9fec-b4cf64525c04.png)
 
-#Album rating for Back in Black
-album_rating = 8.5
+![image](https://user-images.githubusercontent.com/81119854/122655233-4f578e80-d127-11eb-98e4-ce865fe55227.png)
 
-if(album_rating > 8):
-print("This album is Amazing!")
-else:
-print("Not that amazing...")
-
-#Write an if-else statement that performs the following. If the rating is larger then eight print “this album is amazing”. If the rating is less than or equal to 8 print “this album is ok”.
-
-#Album rating for Back in Black
-album_rating = 8.05
-
-if(album_rating > 8):
-print("This album is Amazing!")
-else:
-print("This album is ok")
-
-#Write an if statement to determine if an album came out before 1980 or in the years: 1991 or 1993. If the condition is true print out the year the album came out.
-
-album_year = 1992
-
-if(album_year < 1980):
-print("The album came out in the 1970's! It was in:",album_year)
-elif (album_year == 1991) or (album_year == 1993):
-print("The album came out in:", album_year,"!")
-else:
-print("The album did not come out in the 1970's and neither did in 1991 or 1993, it came out in:", album_year)
+![image](https://user-images.githubusercontent.com/81119854/122655272-84fc7780-d127-11eb-9b4e-74e544c6cebd.png)
 
 # Loops-in-Python-3
 
