@@ -92,57 +92,12 @@ This is repository for a introductory course on data analysis.
 
 # Loops-in-Python-3
 
-#Write a for loop the prints out all the element between -5 and 5 using the range function.
+![image](https://user-images.githubusercontent.com/81119854/122656204-c5abbf00-d12e-11eb-825e-f45c3c94222c.png)
 
-range(-5,6)
-for i in range(-5,6):
-    print(i)
-    
-#Print the elements of the following list: Genres=[ 'rock', 'R&B', 'Soundtrack', 'R&B', 'soul', 'pop'] Make sure you follow Python conventions.
+![image](https://user-images.githubusercontent.com/81119854/122656219-db20e900-d12e-11eb-8f27-5eb1e9d63f3b.png)
 
-Genres=[ 'rock', 'R&B', 'Soundtrack', 'R&B', 'soul', 'pop']
+![image](https://user-images.githubusercontent.com/81119854/122656226-e8d66e80-d12e-11eb-90d8-7a755de661a3.png)
 
-N = len(Genres)
-
-for i in range(N):
-    print(Genres[i])
-    
-#Write a for loop that prints out the following list: squares=['red', 'yellow', 'green', 'purple', 'blue']
-
-squares=['red', 'yellow', 'green', 'purple', 'blue']
-
-N = len(squares)
-
-for i in range(N):
-    print(squares[i])
-    
-#Write a while loop to display the values of the Rating of an album playlist stored in the list PlayListRatings. If the score is less than 6, exit the loop. The list PlayListRatings is given by: PlayListRatings = [10, 9.5, 10, 8, 7.5, 5, 10, 10]
-
-PlayListRatings = [10, 9.5, 10, 8, 7.5, 5, 10, 10]
-
-i = 0
-Rating = PlayListRatings[0]
-
-while(Rating > 6):
-    print(Rating)
-    i = i + 1
-    Rating = PlayListRatings[i]
-    
-print("Index", i,"presented a rating of:",Rating)    
-
-#Write a while loop to copy the strings 'orange' of the list squares to the list new_squares. Stop and exit the loop if the value on the list is not 'orange':
-
-squares = ['orange', 'orange', 'purple', 'blue ', 'orange']
-new_squares = []
-
-i = 0
-
-while(squares[i] == 'orange'):
-    new_squares.append(squares[i])
-    print(new_squares[i])
-    i = i + 1
-    
-print("Index", i,"presented a string different of orange!")
 
 # Functions in Python
 
