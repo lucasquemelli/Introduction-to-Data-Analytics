@@ -56,6 +56,22 @@
 
 # Dictionaries
 
+![image](https://user-images.githubusercontent.com/81119854/122655014-980e4800-d125-11eb-97eb-6afcd1ac9875.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122655022-a78d9100-d125-11eb-9c26-6b76c5f03d08.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122655026-b70cda00-d125-11eb-8772-a32ecc847485.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122655048-ea4f6900-d125-11eb-9ea5-1603b7606f13.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122655060-fc310c00-d125-11eb-9916-cf8cfef89493.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122655063-094dfb00-d126-11eb-8e5d-9769f51c268e.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122655069-1a970780-d126-11eb-8198-29fd9cdbbc0d.png)
+
+# Sets
+
 # Conditions-Statement
 It is a repository of the codes about conditions statements I have done in the "Introduction to Data Analytics" course.
 
