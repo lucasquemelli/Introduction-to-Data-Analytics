@@ -28,6 +28,24 @@
 
 ![image](https://user-images.githubusercontent.com/81119854/122654716-b5daad80-d123-11eb-92e4-d6a2b9d9ae9b.png)
 
+# Tuples
+
+![image](https://user-images.githubusercontent.com/81119854/122654781-1538bd80-d124-11eb-980e-62bda999d815.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654790-25509d00-d124-11eb-9681-03f025ac2102.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654801-36011300-d124-11eb-81d3-cadcb7b00e03.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654805-431e0200-d124-11eb-8989-2e70c08ce834.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654815-503af100-d124-11eb-8ddd-f58d72e0c0cf.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654831-68127500-d124-11eb-8900-284ad500185f.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654846-7bbddb80-d124-11eb-8706-9a558342fa4d.png)
+
+# Lists
+
 # Conditions-Statement
 It is a repository of the codes about conditions statements I have done in the "Introduction to Data Analytics" course.
 
