@@ -98,6 +98,10 @@ This is repository for a introductory course on data analysis.
 
 ![image](https://user-images.githubusercontent.com/81119854/122656226-e8d66e80-d12e-11eb-90d8-7a755de661a3.png)
 
+![image](https://user-images.githubusercontent.com/81119854/122656264-3521ae80-d12f-11eb-8a0a-2f1cb497c765.png)
+![image](https://user-images.githubusercontent.com/81119854/122656270-4074da00-d12f-11eb-9cd0-d8b576655af6.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122656273-4c609c00-d12f-11eb-8dd6-ebc1b52c3a6e.png)
 
 # Functions in Python
 
