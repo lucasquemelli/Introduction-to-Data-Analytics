@@ -72,6 +72,14 @@
 
 # Sets
 
+![image](https://user-images.githubusercontent.com/81119854/122655106-6184fd00-d126-11eb-945e-258dd071b395.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122655127-91340500-d126-11eb-9fda-2af53a662179.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122655133-9ee98a80-d126-11eb-8a9c-b6382c064696.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122655146-af9a0080-d126-11eb-9d15-dd2d1bae74e2.png)
+
 # Conditions-Statement
 It is a repository of the codes about conditions statements I have done in the "Introduction to Data Analytics" course.
 
