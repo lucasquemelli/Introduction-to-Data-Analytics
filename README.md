@@ -528,6 +528,41 @@ c
 
 ![image](https://user-images.githubusercontent.com/81119854/122645982-798f5900-d0f3-11eb-8d6b-98d2d128c46d.png)
 
+Why are the results of the dot product for [-1, 1] and [1, 1] and the dot product for [1, 0] and [0, 1] zero, but not zero for the dot product for [1, 1] and [0, 1]?
+
+Hint: Study the corresponding figures, pay attention to the direction the arrows are pointing to.
+
+# Write your code below and press Shift+Enter to execute
+
+a = np.array([-1,1])
+b = np.array([1,1])
+c = np.dot(a,b)
+c
+
+
+d = np.array([1,0])
+e = np.array([0,1])
+f = np.dot(d,e)
+f
+
+
+g = np.array([1,1])
+h = np.array([0,1])
+i = np.dot(g,h)
+i
+
+Plotvec2(a,b)
+
+![image](https://user-images.githubusercontent.com/81119854/122646301-dc352480-d0f4-11eb-80c3-4d388fcd6981.png)
+
+Plotvec2(d,e)
+
+![image](https://user-images.githubusercontent.com/81119854/122646320-f111b800-d0f4-11eb-81a9-b333893faa71.png)
+
+Plotvec2(g,h)
+
+![image](https://user-images.githubusercontent.com/81119854/122646339-07b80f00-d0f5-11eb-9c04-02b9ceda2c6b.png)
+
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
