@@ -46,6 +46,16 @@
 
 # Lists
 
+![image](https://user-images.githubusercontent.com/81119854/122654906-d7886480-d124-11eb-8a13-b30aa19a7e30.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654917-e838da80-d124-11eb-8d30-6034dba112f2.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654925-f555c980-d124-11eb-8501-a428aa80b5c2.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122654936-0272b880-d125-11eb-9a82-862f855b4d03.png)
+
+# Dictionaries
+
 # Conditions-Statement
 It is a repository of the codes about conditions statements I have done in the "Introduction to Data Analytics" course.
 
