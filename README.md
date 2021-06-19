@@ -462,6 +462,48 @@ with open(exReg,'r') as readFile:
     print("Inactive Members: \n\n")
     print(readFile.read())
     
+# One Dimensional Numpy
+
+Implement the following vector subtraction in numpy: u-v
+
+#Write your code below and press Shift+Enter to execute
+
+u = np.array([1, 0])
+v = np.array([0, 1])
+
+z = u - v
+z
+
+Multiply the numpy array z with -2:
+
+#Write your code below and press Shift+Enter to execute
+
+z = np.array([2, 4])
+
+w = z*2
+w
+
+Consider the list [1, 2, 3, 4, 5] and [1, 0, 1, 0, 1]. Cast both lists to a numpy array then multiply them together:
+
+# Write your code below and press Shift+Enter to execute
+
+a = np.array([1,2,3,4,5])
+b = np.array([1,0,1,0,1])
+c = a*b
+c
+
+Convert the list [-1, 1] and [1, 1] to numpy arrays a and b. Then, plot the arrays as vectors using the fuction Plotvec2 and find their dot product:
+
+# Write your code below and press Shift+Enter to execute
+
+a = np.array([-1, 1])
+b = np.array([1, 1])
+Plotvec2(a,b)
+c = np.dot(a,b)
+c
+
+![image](https://user-images.githubusercontent.com/81119854/122645769-63cd6400-d0f2-11eb-8442-ea40fb400e61.png)
+
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
