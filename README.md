@@ -308,6 +308,34 @@ class analysedText(object):
         else:
             return 0
     
+# Reading files
+
+![image](https://user-images.githubusercontent.com/81119854/122656447-eb39c800-d130-11eb-8589-b35f00e2c996.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122656458-03114c00-d131-11eb-8645-57c8d8f6e47e.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122656459-0efd0e00-d131-11eb-8020-0a3b1b576dc1.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122656461-1b816680-d131-11eb-87cb-f809fbc4ed86.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122656465-29cf8280-d131-11eb-8ded-ee9b88229385.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122656468-36ec7180-d131-11eb-96c4-d869d91d1c4b.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122656472-48357e00-d131-11eb-86fc-18ace83e176f.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122656478-597e8a80-d131-11eb-8d82-87839e3f0a9b.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122656483-656a4c80-d131-11eb-8cef-0642bfd8412d.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122656492-77e48600-d131-11eb-8a1c-78cacd6a1549.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122656497-8468de80-d131-11eb-8150-1cb7e5a50130.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122656503-98144500-d131-11eb-9323-3c891923a42e.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122656510-a6faf780-d131-11eb-8dc9-a3212b04427b.png)
+
 # Write and save files in Python
 
 Your local university's Raptors fan club maintains a register of its active members on a .txt document. Every month they update the file by removing the members who are not active. You have been tasked with automating this with your Python skills.
