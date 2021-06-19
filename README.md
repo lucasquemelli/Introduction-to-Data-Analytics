@@ -411,6 +411,7 @@ with open(exReg,'r') as readFile:
 
 The first, the second and the third charts are, respectively, for: (a & b), (d & e) and (g & h).  
 
+Solution: the product of perpendicular vectors is zero. Therefore, the dot product for the vectors (g & h) is not zero.
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
