@@ -485,7 +485,7 @@ w
 
 Consider the list [1, 2, 3, 4, 5] and [1, 0, 1, 0, 1]. Cast both lists to a numpy array then multiply them together:
 
-# Write your code below and press Shift+Enter to execute
+#Write your code below and press Shift+Enter to execute
 
 a = np.array([1,2,3,4,5])
 b = np.array([1,0,1,0,1])
@@ -494,7 +494,7 @@ c
 
 Convert the list [-1, 1] and [1, 1] to numpy arrays a and b. Then, plot the arrays as vectors using the fuction Plotvec2 and find their dot product:
 
-# Write your code below and press Shift+Enter to execute
+#Write your code below and press Shift+Enter to execute
 
 a = np.array([-1, 1])
 b = np.array([1, 1])
