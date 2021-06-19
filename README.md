@@ -377,106 +377,29 @@ with open(exReg,'r') as readFile:
     
 # One Dimensional Numpy
 
-Implement the following vector subtraction in numpy: u-v
+![image](https://user-images.githubusercontent.com/81119854/122656900-39e96100-d135-11eb-9704-8ac5e048d415.png)
 
-#Write your code below and press Shift+Enter to execute
+![image](https://user-images.githubusercontent.com/81119854/122656909-48377d00-d135-11eb-9ab7-4463709b171e.png)
 
-u = np.array([1, 0])
-v = np.array([0, 1])
+![image](https://user-images.githubusercontent.com/81119854/122656919-5c7b7a00-d135-11eb-8b07-93b666384435.png)
 
-z = u - v
-z
+![image](https://user-images.githubusercontent.com/81119854/122656928-6a30ff80-d135-11eb-8e75-4f2b2ac16a2d.png)
 
-Multiply the numpy array z with -2:
+![image](https://user-images.githubusercontent.com/81119854/122656937-774dee80-d135-11eb-9ffe-8084b37bbc3b.png)
 
-#Write your code below and press Shift+Enter to execute
+![image](https://user-images.githubusercontent.com/81119854/122656944-85037400-d135-11eb-89f7-854954617609.png)
 
-z = np.array([2, 4])
+![image](https://user-images.githubusercontent.com/81119854/122656952-964c8080-d135-11eb-83f9-e54b756b5a83.png)
 
-w = z*2
-w
+![image](https://user-images.githubusercontent.com/81119854/122656961-a2d0d900-d135-11eb-84e0-50975300f26b.png)
 
-Consider the list [1, 2, 3, 4, 5] and [1, 0, 1, 0, 1]. Cast both lists to a numpy array then multiply them together:
+![image](https://user-images.githubusercontent.com/81119854/122656969-ac5a4100-d135-11eb-9a3f-dabde809df38.png)
 
-#Write your code below and press Shift+Enter to execute
+![image](https://user-images.githubusercontent.com/81119854/122656976-bda34d80-d135-11eb-8dec-cb6cb9fb55ed.png)
 
-a = np.array([1,2,3,4,5])
-b = np.array([1,0,1,0,1])
-c = a*b
-c
+![image](https://user-images.githubusercontent.com/81119854/122656984-cbf16980-d135-11eb-83e4-dd899bb94ac7.png)
 
-Convert the list [-1, 1] and [1, 1] to numpy arrays a and b. Then, plot the arrays as vectors using the fuction Plotvec2 and find their dot product:
-
-#Write your code below and press Shift+Enter to execute
-
-a = np.array([-1, 1])
-b = np.array([1, 1])
-Plotvec2(a,b)
-c = np.dot(a,b)
-c
-
-![image](https://user-images.githubusercontent.com/81119854/122645769-63cd6400-d0f2-11eb-8442-ea40fb400e61.png)
-
-Convert the list [1, 0] and [0, 1] to numpy arrays a and b. Then, plot the arrays as vectors using the function Plotvec2 and find their dot product:
-
-#Write your code below and press Shift+Enter to execute
-
-a = np.array([1,0])
-b = np.array([0,1])
-Plotvec2(a,b)
-c = np.dot(a,b)
-c
-
-![image](https://user-images.githubusercontent.com/81119854/122645886-17ceef00-d0f3-11eb-80b9-a4c369e1f33f.png)
-
-Convert the list [1, 1] and [0, 1] to numpy arrays a and b. Then plot the arrays as vectors using the fuction Plotvec2 and find their dot product:
-
-#Write your code below and press Shift+Enter to execute
-
-a = np.array([1,1])
-b = np.array([0,1])
-Plotvec2(a,b)
-c = np.dot(a,b)
-c
-
-![image](https://user-images.githubusercontent.com/81119854/122645982-798f5900-d0f3-11eb-8d6b-98d2d128c46d.png)
-
-Why are the results of the dot product for [-1, 1] and [1, 1] and the dot product for [1, 0] and [0, 1] zero, but not zero for the dot product for [1, 1] and [0, 1]?
-
-Hint: Study the corresponding figures, pay attention to the direction the arrows are pointing to.
-
-#Write your code below and press Shift+Enter to execute
-
-a = np.array([-1,1])
-b = np.array([1,1])
-c = np.dot(a,b)
-c
-
-
-d = np.array([1,0])
-e = np.array([0,1])
-f = np.dot(d,e)
-f
-
-
-g = np.array([1,1])
-h = np.array([0,1])
-i = np.dot(g,h)
-i
-
-Plotvec2(a,b)
-
-![image](https://user-images.githubusercontent.com/81119854/122646301-dc352480-d0f4-11eb-80c3-4d388fcd6981.png)
-
-Plotvec2(d,e)
-
-![image](https://user-images.githubusercontent.com/81119854/122646320-f111b800-d0f4-11eb-81a9-b333893faa71.png)
-
-Plotvec2(g,h)
-
-![image](https://user-images.githubusercontent.com/81119854/122646339-07b80f00-d0f5-11eb-9c04-02b9ceda2c6b.png)
-
-O produto de dois vetores perpendiculares é zero. Como os vetores g e h não são perpendiculares, o produto é diferente de zero. 
+![image](https://user-images.githubusercontent.com/81119854/122656990-d6abfe80-d135-11eb-913e-880f2815e366.png)
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
