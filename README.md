@@ -506,7 +506,7 @@ c
 
 Convert the list [1, 0] and [0, 1] to numpy arrays a and b. Then, plot the arrays as vectors using the function Plotvec2 and find their dot product:
 
-# Write your code below and press Shift+Enter to execute
+#Write your code below and press Shift+Enter to execute
 
 a = np.array([1,0])
 b = np.array([0,1])
@@ -515,6 +515,18 @@ c = np.dot(a,b)
 c
 
 ![image](https://user-images.githubusercontent.com/81119854/122645886-17ceef00-d0f3-11eb-80b9-a4c369e1f33f.png)
+
+Convert the list [1, 1] and [0, 1] to numpy arrays a and b. Then plot the arrays as vectors using the fuction Plotvec2 and find their dot product:
+
+#Write your code below and press Shift+Enter to execute
+
+a = np.array([1,1])
+b = np.array([0,1])
+Plotvec2(a,b)
+c = np.dot(a,b)
+c
+
+![image](https://user-images.githubusercontent.com/81119854/122645982-798f5900-d0f3-11eb-8d6b-98d2d128c46d.png)
 
 
 # Here is a link with commonly-used pre-defined functions in Python: 
