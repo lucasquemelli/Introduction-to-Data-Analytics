@@ -563,6 +563,7 @@ Plotvec2(g,h)
 
 ![image](https://user-images.githubusercontent.com/81119854/122646339-07b80f00-d0f5-11eb-9c04-02b9ceda2c6b.png)
 
+O produto de dois vetores perpendiculares é zero. Como os vetores g e h não são perpendiculares, o produto é diferente de zero. 
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
