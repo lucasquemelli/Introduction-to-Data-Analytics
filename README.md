@@ -99,144 +99,20 @@ This is repository for a introductory course on data analysis.
 ![image](https://user-images.githubusercontent.com/81119854/122656226-e8d66e80-d12e-11eb-90d8-7a755de661a3.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/122656264-3521ae80-d12f-11eb-8a0a-2f1cb497c765.png)
+
 ![image](https://user-images.githubusercontent.com/81119854/122656270-4074da00-d12f-11eb-9cd0-d8b576655af6.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/122656273-4c609c00-d12f-11eb-8dd6-ebc1b52c3a6e.png)
 
 # Functions in Python
 
-#This is an example of a function
+![image](https://user-images.githubusercontent.com/81119854/122656332-ef191a80-d12f-11eb-82e9-6a17ee45ff6f.png)
 
-def add(a):       #keyword: def; #name: add; #parameter: a.
-    b = a + 1     #here begins the indent and it will be finished on line 99; #these three lines are called "the body" of the function". 
-    print(a, "if you add one", b)
-    return(b)
-    
-#A manner of calling the previous function is:
+![image](https://user-images.githubusercontent.com/81119854/122656343-fb04dc80-d12f-11eb-9f17-bb99edfd7f8a.png)
 
-add(1) #this will assign the value 1 to the variable a. Thus, the result will be 2.
+![image](https://user-images.githubusercontent.com/81119854/122656349-0821cb80-d130-11eb-9f2e-3786013ee899.png)
 
-#Another way of calling the funcion named "add" is by doing:
-
-add(2) #this will result in 3.
-
-#Let's pay attention to the next function that multiplies two numbers:
-
-def Mult(a, b):
-    c = a * b
-    return(c)
-    print('This is not printed')
-    
-result = Mult(12,2)
-print(result)
-
-#Obviously, the result of the previous function is 24. Not that difficult and neither interesting... But the attention goes to the command "print". The string 'This is not printed' actually was not printed - only the result 24. Think about it!
-
-#The last function 'Mult' can be used to multiply integers, floats and even strings. In the last case, the string will be repeated the times you want. But only works when we use an integer to multiply a string - not a float, I mean. Example:
-
-Mult(2, "Lucas Quemelli")
-
-#We may call variables of a local and a global manner
-
-#Local manner
-
-def square(a):
-    
-    # Local variable b
-    b = 1
-    c = a * a + b
-    print(a, "if you square + 1", c) 
-    return(c)
-
-#Global manner
-
-x = 3
-
-#Makes function call and return function a y
-
-y = square(x)
-y                                            
-
-#In this manner, we defined the variable 'x' and the function 'y'. The variable 'x' is a parameter of the function 'y'. Both of them                                              are part of the same set of codes. Because of this, if we set a different value for 'x', the function 'y' will return the result as                                              (x*x + 1).
-
-#When there is not return statement, the function return none as may be seen: 
-
-def LQ():
-    print('Lucas Quemelli')
-    
-def LQ1():
-    print('Lucas Quemelli')
-    return(None)
-    
-#See the output
-
-LQ()
-
-#See the output
-
-LQ1()
-
-#Printing the function after a call reveals a "none" is the default return statement:
-
-print(LQ())
-print(LQ1())
-
-#We can concatenate two strings using a function con:
-
-def con(a, b):
-    return(a + b)
-con("This ", "is!")
-
-#We may use a loop for printing every element in a function, such as:
-
-def PrintList(the_list):
-    for element in the_list:
-        print(element)
-        
-PrintList(['1', 1, 'the man', "abc"])
-
-#Come up with a function that divides the first input by the second input:
-
-def div(a,b):
-    c = a/b
-    return(c)
-    
-result = div(8,2)
-print(result)
-
-#Use the function con for concatenating two variables.
-
-def con(a, b):
-    return(a + b)
-result = con("Lucas ","Quemelli")
-print(result)
-
-#Can the con function we defined before be used to add two integers or strings?
-
-def con(a, b):
-    return(a + b)
-result = con("2","7")
-print(result)
-
-#Can the con function we defined before be used to concatenate lists or tuples?
-
-#List
-
-def con(a, b):
-    return(a + b)
-L1 = [2,3,4]
-L2 = [5,6,7]
-result = con(L1,L2)
-print(result)
-
-#Tuple
-
-def con(a, b):
-    return(a + b)
-T1 = (9,8,7)
-T2 = (6,5,4)
-result = con(T1,T2)
-print(result)
+![image](https://user-images.githubusercontent.com/81119854/122656351-166fe780-d130-11eb-9c67-71ad8a88caaa.png)
 
 # Exception Handling
 
@@ -289,11 +165,7 @@ finally:
 
 # Classes and Objects
 
-#You have been recruited by your friend, a linguistics enthusiast, to create a utility tool that can perform analysis on a given piece of text. Complete the class 'analysedText' with the following methods -
-
-Constructor - Takes argument 'text',makes it lower case and removes all punctuation. Assume only the following punctuation is used - period (.), exclamation mark (!), comma (,) and question mark (?). Store the argument in "fmtText"
-freqAll - returns a dictionary of all unique words in the text along with the number of their occurences.
-freqOf - returns the frequency of the word passed in argument.
+![image](https://user-images.githubusercontent.com/81119854/122656372-5040ee00-d130-11eb-81cc-8a58877a0b85.png)
 
 class analysedText(object):
     
