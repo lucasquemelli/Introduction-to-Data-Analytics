@@ -338,8 +338,7 @@ class analysedText(object):
 
 # Write and save files in Python
 
-Your local university's Raptors fan club maintains a register of its active members on a .txt document. Every month they update the file by removing the members who are not active. You have been tasked with automating this with your Python skills.
-Given the file currentMem, Remove each member with a 'no' in their Active coloumn. Keep track of each of the removed members and append them to the exMem file. Make sure the format of the original files in preserved. 
+![image](https://user-images.githubusercontent.com/81119854/122656841-aadc4900-d134-11eb-8cff-211fec8c35a5.png)
 
 def cleanFiles(currentMem,exMem):
     with open(currentMem,'r+') as writeFile: 
