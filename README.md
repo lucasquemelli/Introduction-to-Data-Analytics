@@ -532,7 +532,7 @@ Why are the results of the dot product for [-1, 1] and [1, 1] and the dot produc
 
 Hint: Study the corresponding figures, pay attention to the direction the arrows are pointing to.
 
-# Write your code below and press Shift+Enter to execute
+#Write your code below and press Shift+Enter to execute
 
 a = np.array([-1,1])
 b = np.array([1,1])
