@@ -377,6 +377,10 @@ with open(exReg,'r') as readFile:
     
 # One Dimensional Numpy
 
+![image](https://user-images.githubusercontent.com/81119854/122657043-45895780-d136-11eb-96ab-51efe36c4b81.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122657107-d2341580-d136-11eb-8a38-06c2e3aab228.png)
+
 ![image](https://user-images.githubusercontent.com/81119854/122656900-39e96100-d135-11eb-9704-8ac5e048d415.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/122656909-48377d00-d135-11eb-9ab7-4463709b171e.png)
@@ -399,7 +403,14 @@ with open(exReg,'r') as readFile:
 
 ![image](https://user-images.githubusercontent.com/81119854/122656984-cbf16980-d135-11eb-83e4-dd899bb94ac7.png)
 
+![image](https://user-images.githubusercontent.com/81119854/122657117-f42d9800-d136-11eb-8e60-b65cb5de2d38.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122657134-1fb08280-d137-11eb-9ab1-85ce2da9f1ac.png)
+
 ![image](https://user-images.githubusercontent.com/81119854/122656990-d6abfe80-d135-11eb-913e-880f2815e366.png)
+
+The first, the second and the third charts are, respectively, for: (a & b), (d & e) and (g & h).  
+
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
