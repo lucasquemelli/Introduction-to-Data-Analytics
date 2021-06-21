@@ -423,6 +423,7 @@ Solution: the product of perpendicular vectors is zero. Therefore, the dot produ
 
 ![image](https://user-images.githubusercontent.com/81119854/122813213-0fb8b000-d2a9-11eb-9d71-80565bb3ab4c.png)
 
+![image](https://user-images.githubusercontent.com/81119854/122813646-8a81cb00-d2a9-11eb-9244-3da4ce775af6.png)
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
