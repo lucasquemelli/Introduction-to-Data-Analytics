@@ -413,6 +413,17 @@ The first, the second and the third charts are, respectively, for: (a & b), (d &
 
 Solution: the product of perpendicular vectors is zero. Therefore, the dot product for the vectors (g & h) is not zero.
 
+# Two Dimensional Numpy
+
+![image](https://user-images.githubusercontent.com/81119854/122805791-eb0c0a80-d29f-11eb-8b08-e47b548c1757.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122813009-cff1c880-d2a8-11eb-8020-4b34b16c42a9.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122813082-e435c580-d2a8-11eb-8b3e-29ec93d8e787.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122813213-0fb8b000-d2a9-11eb-9d71-80565bb3ab4c.png)
+
+
 # Here is a link with commonly-used pre-defined functions in Python: 
 
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/labs/Module%203/Python_reference_sheet.pdf?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkPY0101ENSkillsNetwork19487395-2021-01-01
