@@ -336,16 +336,6 @@ class analysedText(object):
 
 ![image](https://user-images.githubusercontent.com/81119854/122656510-a6faf780-d131-11eb-8dc9-a3212b04427b.png)
 
-We could also calculate the transposed matrix by doing:
-
-![image](https://user-images.githubusercontent.com/81119854/122813983-fcf2ab00-d2a9-11eb-9c1e-6f99166f81fa.png)
-
-![image](https://user-images.githubusercontent.com/81119854/122814045-0ed44e00-d2aa-11eb-8c36-41fd7a82309d.png)
-
-We can perform the wise-element product/Hadamard product by doing:
-
-![image](https://user-images.githubusercontent.com/81119854/122814176-39260b80-d2aa-11eb-8f25-c1a57d30e398.png)
-
 # Write and save files in Python
 
 ![image](https://user-images.githubusercontent.com/81119854/122656841-aadc4900-d134-11eb-8cff-211fec8c35a5.png)
@@ -434,6 +424,16 @@ Solution: the product of perpendicular vectors is zero. Therefore, the dot produ
 ![image](https://user-images.githubusercontent.com/81119854/122813213-0fb8b000-d2a9-11eb-9d71-80565bb3ab4c.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/122813646-8a81cb00-d2a9-11eb-9244-3da4ce775af6.png)
+
+We could also calculate the transposed matrix by doing:
+
+![image](https://user-images.githubusercontent.com/81119854/122813983-fcf2ab00-d2a9-11eb-9c1e-6f99166f81fa.png)
+
+![image](https://user-images.githubusercontent.com/81119854/122814045-0ed44e00-d2aa-11eb-8c36-41fd7a82309d.png)
+
+We can perform the wise-element product/Hadamard product by doing:
+
+![image](https://user-images.githubusercontent.com/81119854/122814176-39260b80-d2aa-11eb-8f25-c1a57d30e398.png)
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
