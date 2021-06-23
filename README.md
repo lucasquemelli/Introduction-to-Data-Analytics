@@ -435,6 +435,32 @@ We can perform the wise-element product/Hadamard product by doing:
 
 ![image](https://user-images.githubusercontent.com/81119854/122814176-39260b80-d2aa-11eb-8f25-c1a57d30e398.png)
 
+#  Application Programming Interface (API)
+
+![image](https://user-images.githubusercontent.com/81119854/123132717-6b0fad00-d425-11eb-891b-be86d658b51a.png)
+
+Pandas is an API. Pandas is a set of software components, much of which is not even written in Python. 
+
+![image](https://user-images.githubusercontent.com/81119854/123133079-c346af00-d425-11eb-8a66-e3adc31ffbd2.png)
+
+Let's define a dictionary:
+
+![image](https://user-images.githubusercontent.com/81119854/123134645-64823500-d427-11eb-831c-b06478d7edf5.png)
+
+When we create a Pandas object with the DataFrame constructor in API lingo, the data in the dictionary is passed along to the Pandas API. We then use the DataFrame to communicate with the API. 
+
+![image](https://user-images.githubusercontent.com/81119854/123135210-ea9e7b80-d427-11eb-928e-4ecc03b7df13.png)
+
+If we want to see the first few rows of the DataFrame, we call the method "head". This method makes the DataFrame communicates with the API displaying the first few rows of the DataFrame. Let's see it:
+
+![image](https://user-images.githubusercontent.com/81119854/123135708-7d3f1a80-d428-11eb-8f37-d6d2f510f996.png)
+
+In order to calculate the mean, we use the method "mean", as seen:
+
+![image](https://user-images.githubusercontent.com/81119854/123135903-b8d9e480-d428-11eb-8f52-3442983bf0a9.png)
+
+
+
 # Here is a link with commonly-used pre-defined functions in Python: 
 
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/labs/Module%203/Python_reference_sheet.pdf?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkPY0101ENSkillsNetwork19487395-2021-01-01
