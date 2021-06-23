@@ -1,4 +1,4 @@
-# Introduction-to-Data-Analytics
+# Python for Data Science, AI & Development
 
 This is a repository for an introductory course on data analysis using Python 3.
 
