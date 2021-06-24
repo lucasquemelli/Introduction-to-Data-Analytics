@@ -501,6 +501,17 @@ The right side of the last picture:
 
 ![image](https://user-images.githubusercontent.com/81119854/123315918-a16f2a00-d502-11eb-9829-3aeac991560c.png)
 
+![image](https://user-images.githubusercontent.com/81119854/123316213-f743d200-d502-11eb-8242-1e61fbd13003.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123316300-13e00a00-d503-11eb-9baf-3e50a54da405.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123316345-1e9a9f00-d503-11eb-9eaf-1e6bd78494b3.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123316442-383be680-d503-11eb-892e-9dcf4b6ba4e3.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123316493-468a0280-d503-11eb-818e-0c21aef0eacf.png)
+
+
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
