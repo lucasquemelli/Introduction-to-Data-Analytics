@@ -497,6 +497,10 @@ The right side of the last picture:
 
 ![image](https://user-images.githubusercontent.com/81119854/123312371-a205c180-d4fe-11eb-9944-99f5eda8eccc.png)
 
+# Get Request with URL parameters
+
+![image](https://user-images.githubusercontent.com/81119854/123315918-a16f2a00-d502-11eb-9829-3aeac991560c.png)
+
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
