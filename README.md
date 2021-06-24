@@ -511,6 +511,11 @@ The right side of the last picture:
 
 ![image](https://user-images.githubusercontent.com/81119854/123316493-468a0280-d503-11eb-818e-0c21aef0eacf.png)
 
+# Post Requests
+
+![image](https://user-images.githubusercontent.com/81119854/123316955-d92aa180-d503-11eb-8647-db9c1c1b27dc.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123317057-f6f80680-d503-11eb-99a6-70d6547901cc.png)
 
 
 # Here is a link with commonly-used pre-defined functions in Python: 
