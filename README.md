@@ -459,6 +459,43 @@ In order to calculate the mean, we use the method "mean", as seen:
 
 ![image](https://user-images.githubusercontent.com/81119854/123135903-b8d9e480-d428-11eb-8f52-3442983bf0a9.png)
 
+# Requests HTTP in Python
+
+In order to import the library 'requests', we do:
+
+![image](https://user-images.githubusercontent.com/81119854/123310125-2145c600-d4fc-11eb-9665-fd987a312eb7.png)
+
+Requests is a Python library that allow us to send HTTP/1.1 requests. We also may import the following libraries:
+
+![image](https://user-images.githubusercontent.com/81119854/123310514-8994a780-d4fc-11eb-9982-4aa251557418.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123310586-9dd8a480-d4fc-11eb-9721-600fe39a5bca.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123310656-b2b53800-d4fc-11eb-86fe-db91e61e0f12.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123310750-ceb8d980-d4fc-11eb-9f94-04f1f6bd358c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123310924-f90a9700-d4fc-11eb-8ff5-1aac72a990bb.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123311054-17709280-d4fd-11eb-9908-5671a2d0898b.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123311153-35d68e00-d4fd-11eb-85a5-5900c19b8f06.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123311290-5ef71e80-d4fd-11eb-97c1-790d827864c6.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123311370-7e8e4700-d4fd-11eb-8368-e77283b1f6e7.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123311412-89e17280-d4fd-11eb-946b-8f39a448b299.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123311486-9ebe0600-d4fd-11eb-87be-13c54547d517.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123312193-61a64380-d4fe-11eb-89f9-d1f1a9efb656.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123312307-8a2e3d80-d4fe-11eb-9376-659c554f3482.png)
+
+The right side of the last picture:
+
+![image](https://user-images.githubusercontent.com/81119854/123312371-a205c180-d4fe-11eb-9944-99f5eda8eccc.png)
 
 
 # Here is a link with commonly-used pre-defined functions in Python: 
