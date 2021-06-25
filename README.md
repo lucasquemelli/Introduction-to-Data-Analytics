@@ -565,6 +565,34 @@ We may use filters to find complex patterns. Let's see the following HTML of roc
 
 ![image](https://user-images.githubusercontent.com/81119854/123460319-d55b5580-d5bd-11eb-839f-e0263d6e3184.png)
 
+![image](https://user-images.githubusercontent.com/81119854/123460566-35ea9280-d5be-11eb-8f79-714f6041f99e.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123460623-4864cc00-d5be-11eb-9fcf-153ffd299b70.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123460695-65999a80-d5be-11eb-9b47-378bbaa505a5.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123460744-7a762e00-d5be-11eb-8277-4710694398f8.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123460812-9679cf80-d5be-11eb-8721-2c94d18a07a5.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123460909-bc06d900-d5be-11eb-9edc-8d126de6f47a.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123460969-d2ad3000-d5be-11eb-8d4d-df741cadd9d9.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123461185-2ae43200-d5bf-11eb-874c-8d7da9f17f85.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123461334-5e26c100-d5bf-11eb-9210-105dad55e5da.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123461372-6a128300-d5bf-11eb-83d2-f777bd68b8fc.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123461421-7d255300-d5bf-11eb-8808-062692773e01.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123461528-962e0400-d5bf-11eb-9744-8b884e169f60.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123461588-a34af300-d5bf-11eb-8cfc-4905c12d0c1d.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123461637-b65dc300-d5bf-11eb-8033-6da2d9f7bd91.png)
+
 
 
 # Here is a link with commonly-used pre-defined functions in Python: 
