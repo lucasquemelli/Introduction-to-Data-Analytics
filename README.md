@@ -549,6 +549,15 @@ We may use filters to find complex patterns. Let's see the following HTML of roc
 
 ![image](https://user-images.githubusercontent.com/81119854/123457307-2b2dfe80-d5ba-11eb-9292-13804d474ea3.png)
 
+![image](https://user-images.githubusercontent.com/81119854/123457557-6c261300-d5ba-11eb-9dd9-984d11b5108f.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123457657-83650080-d5ba-11eb-91b4-9b62ae859540.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123457882-c45d1500-d5ba-11eb-84e3-e396cb72a6d1.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123457991-e35ba700-d5ba-11eb-96b7-8d816efc55fa.png)
+
+
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
