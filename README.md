@@ -517,6 +517,23 @@ The right side of the last picture:
 
 ![image](https://user-images.githubusercontent.com/81119854/123317057-f6f80680-d503-11eb-99a6-70d6547901cc.png)
 
+# Webscraping
+
+![image](https://user-images.githubusercontent.com/81119854/123425556-a67eb880-d598-11eb-8fb3-ae67506239ae.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123425615-bac2b580-d598-11eb-9407-2af129696580.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123431630-da111100-d59f-11eb-863a-d0d5d21450ac.png)
+
+We may use filters to find complex patterns. Let's see the following HTML of rocket launchs:
+
+![image](https://user-images.githubusercontent.com/81119854/123454780-52cf9780-d5b7-11eb-96b3-048946dc6cae.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123454854-61b64a00-d5b7-11eb-837e-47f7c4bc7a60.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123454967-87435380-d5b7-11eb-848f-863205a7cc8b.png)
+
+
 
 # Here is a link with commonly-used pre-defined functions in Python: 
 
