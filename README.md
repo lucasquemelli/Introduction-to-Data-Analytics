@@ -533,6 +533,21 @@ We may use filters to find complex patterns. Let's see the following HTML of roc
 
 ![image](https://user-images.githubusercontent.com/81119854/123454967-87435380-d5b7-11eb-848f-863205a7cc8b.png)
 
+![image](https://user-images.githubusercontent.com/81119854/123455561-3b44de80-d5b8-11eb-9048-35b7b6aa5f27.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123455688-64656f00-d5b8-11eb-8251-079d0b7b65ff.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123455826-8b23a580-d5b8-11eb-933e-b3907521d317.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123456212-f8cfd180-d5b8-11eb-9dbd-99d63c651d67.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123456248-0422fd00-d5b9-11eb-9d20-56fe1f5119c6.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123456316-1866fa00-d5b9-11eb-9391-0ddbaa234f55.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123457215-13567a80-d5ba-11eb-9c20-566e07468410.png)
+
+![image](https://user-images.githubusercontent.com/81119854/123457307-2b2dfe80-d5ba-11eb-9292-13804d474ea3.png)
 
 
 # Here is a link with commonly-used pre-defined functions in Python: 
